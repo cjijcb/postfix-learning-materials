@@ -1,2 +1,3 @@
+##/etc/postfix/sasl_passwd
 tsi_nms@email.com   tsi_nms@email.com:Cosine@12345
 tsi_siem@email.com  tsi_siem@email.com:P@ssw0rd
